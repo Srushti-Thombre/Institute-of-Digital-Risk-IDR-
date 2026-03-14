@@ -1,0 +1,7 @@
+The logo was designed to visually represent the core idea behind the **Institute of Digital Risk**. The geometric cube symbolizes structure, stability, and the complex systems that exist within modern digital infrastructure. Since digital risk management requires organized frameworks and resilient systems, the cube reflects this sense of order and reliability.
+
+The front face of the cube is shaped like a shield to represent protection. This element highlights the institute’s focus on safeguarding organizations from cyber threats, technological vulnerabilities, and emerging risks in AI and digital environments. It communicates the idea that IDR is not only about understanding risk, but also about actively protecting and strengthening digital systems.
+
+The sides of the cube incorporate small network nodes connected by lines, which represent the interconnected nature of today’s digital ecosystems. Modern risks rarely exist in isolation, and the network structure reflects how technology, data, and AI systems are deeply interconnected and must be managed holistically.
+
+The color palette of orange, black, and white was chosen to balance innovation with professionalism. Orange adds energy and a sense of forward-thinking technology, while black and white create clarity, contrast, and credibility. Together, these choices ensure the logo feels modern and trustworthy, while remaining simple enough to stay recognizable even at small sizes such as favicons or mobile headers.
